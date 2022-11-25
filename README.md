@@ -15,3 +15,12 @@ Fazer uma landing page de forma responsiva com o material do desafio "Huddle Lan
 # Tecnologias utilizadas
 - HTML
 - CSS
+
+# Links
+- URL do repositório : 
+<br>
+https://github.com/deivid-rodrigues/Huddle-Landing-Page
+
+- URL do Website:
+<br>
+https://github.com/deivid-rodrigues/Huddle-Landing-Page
