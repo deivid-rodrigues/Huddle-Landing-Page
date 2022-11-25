@@ -18,9 +18,7 @@ Fazer uma landing page de forma responsiva com o material do desafio "Huddle Lan
 
 # Links
 - URL do repositório : 
-<br>
 https://github.com/deivid-rodrigues/Huddle-Landing-Page
-
-- URL do Website:
 <br>
+- URL do Website:
 https://github.com/deivid-rodrigues/Huddle-Landing-Page
