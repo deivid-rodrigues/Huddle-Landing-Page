@@ -22,4 +22,4 @@ https://github.com/deivid-rodrigues/Huddle-Landing-Page
 <br>
 
 - URL do Website:
-https://github.com/deivid-rodrigues/Huddle-Landing-Page
+https://deivid-rodrigues.github.io/Huddle-Landing-Page/
