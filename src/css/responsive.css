@@ -1,0 +1,73 @@
+@media (max-width: 925px) {
+    main {
+        background: url(../images/bg-mobile.svg) center center no-repeat;
+        background-size: cover;
+        background-color: hsl(257, 40%, 49%);
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header .logo {
+        height: 30px;
+    }
+
+    .hero-about {
+        flex-direction: column;
+    }
+
+    .about {
+        text-align: center;
+    }
+
+    .about h1 {
+        font-size: 2rem;
+    }
+
+    .about p {
+        font-size: 1rem;
+    }
+
+    .about button {
+        align-self: center;
+        padding: 10px 60px;
+    }
+
+    .footer {
+        margin-bottom: 30px;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 400px) {
+    .about {
+        padding: 30px 15px;
+    }
+
+    .about h1 {
+        font-size: 2.3em;
+        line-height: 40px;
+        min-height: 80px;
+        margin-bottom: 10px;
+    }
+
+    .about p {
+        font-size: 1.4em;
+        line-height: 22px;
+    }
+
+    .about button {
+        padding: 10px 60px;
+        font-size: 1.1em;
+    }
+
+    .footer a {
+        margin: auto 7px;
+    }
+
+    .footer i {
+        width: 20px;
+        height: 20px;
+        font-size: 1.4em;
+        padding: 13px;
+    }
+}
